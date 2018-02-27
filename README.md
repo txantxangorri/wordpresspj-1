@@ -14,7 +14,6 @@ Plugins and themes are located outside the wp folder, so we can manage them sepa
 - composer.json
 - composer.lock
 - local-config.php
-- .gitignore
 
 # Starting our project
 
